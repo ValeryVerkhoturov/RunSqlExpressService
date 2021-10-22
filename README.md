@@ -1,6 +1,8 @@
 # Run SQL Express Service 
 
-Run RunSqlExpressService.bat **as administator**
+Программе RunSqlExpressService.bat нужнен запуск **с парвами администатора**.
+Если служба приостановлена/остановлена, программа запускает службу.
+Если служба запущена, программа остановливает службу.
 
 ## Ошибка 5
 
