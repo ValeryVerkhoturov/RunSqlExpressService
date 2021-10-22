@@ -1,3 +1,3 @@
-﻿#Run SQL Express Service 
+# Run SQL Express Service 
 
-**Run RunSqlExpressService.bat as administator **
+Run RunSqlExpressService.bat as administator
